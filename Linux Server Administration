@@ -1,9 +1,11 @@
 # Linux Server Administration
 
 ## Overview
+
 This project documents my experience administering Ubuntu Linux servers in a home lab environment.
 
 ## Skills Demonstrated
+
 - SSH Remote Administration
 - User Management
 - Firewall Configuration
@@ -13,12 +15,16 @@ This project documents my experience administering Ubuntu Linux servers in a hom
 - Network Troubleshooting
 
 ## Environment
+
 - Ubuntu Server
 - Virtual Machines
 - Home Lab Infrastructure
 
 ## Responsibilities
+
 - Managed server updates and maintenance
 - Configured remote administration using SSH
 - Performed troubleshooting and system monitoring
 - Maintained backups and security configurations
+- Managed Linux-hosted Minecraft and Palworld servers
+- Configured user permissions and service management
