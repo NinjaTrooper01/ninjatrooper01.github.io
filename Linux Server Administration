@@ -1,6 +1,11 @@
-<p> # Linux Server Administration
-
-## Overview
+# ninjatrooper01.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <title># Linux Server Administration</title>
+</head>
+<body>#
+<p> ## Overview
 This project documents my experience administering Ubuntu Linux servers in a home lab environment.
 
 ## Skills Demonstrated
