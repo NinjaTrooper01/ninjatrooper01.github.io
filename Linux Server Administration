@@ -1,4 +1,4 @@
-# Linux Server Administration
+<p> # Linux Server Administration
 
 ## Overview
 This project documents my experience administering Ubuntu Linux servers in a home lab environment.
@@ -22,3 +22,4 @@ This project documents my experience administering Ubuntu Linux servers in a hom
 - Configured remote administration using SSH
 - Performed troubleshooting and system monitoring
 - Maintained backups and security configurations
+<p>
