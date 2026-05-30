@@ -1,11 +1,6 @@
-# ninjatrooper01.github.io
-<!DOCTYPE html>
-<html>
-<head>
-  <title># Linux Server Administration</title>
-</head>
-<body>#
-<p> ## Overview
+# Linux Server Administration
+
+## Overview
 This project documents my experience administering Ubuntu Linux servers in a home lab environment.
 
 ## Skills Demonstrated
@@ -27,4 +22,3 @@ This project documents my experience administering Ubuntu Linux servers in a hom
 - Configured remote administration using SSH
 - Performed troubleshooting and system monitoring
 - Maintained backups and security configurations
-<p>
