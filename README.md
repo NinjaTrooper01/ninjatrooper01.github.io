@@ -19,6 +19,9 @@
 • SSH & Remote Administration
 • Vulnerability Assessment
 • Security Monitoring <p>
+
+<p> ## Featured Projects <p>
+  <p> -Linux Server Administration
   <p> Email: <a href="mailto:clemlogsn@gmail.com">clemlogsn@gmail.com</a></p>
   <p> GitHub: <a href="https://github.com/NinjaTrooper01">NinjaTrooper01</a></p>
   <p> LinkedIn: <a href="https://www.linkedin.com">Your LinkedIn</a></p>
