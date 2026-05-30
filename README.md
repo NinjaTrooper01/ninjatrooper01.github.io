@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Logan Clem | Cybersecurity Student</title>
+  Logan Clem | Cybersecurity Graduate
 </head>
 <body>
   <h1>Hi, I'm Logan Clem</h1>
